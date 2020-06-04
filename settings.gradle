@@ -1,0 +1,2 @@
+rootProject.name='Trell Sample'
+include ':app'
